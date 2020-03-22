@@ -1,0 +1,8 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+@font-face {
+  font-family: "NanumBarunGothic";
+  src: url(./fonts/NanumBarunGothic.ttf) format("truetype");
+}
